@@ -1,2 +1,2 @@
-Hello
+Hello from Conflict Branch
 Hi
