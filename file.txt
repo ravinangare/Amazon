@@ -1,2 +1,3 @@
 Hello from Master Branch
+Hello from Conflict Branch
 Hi
